@@ -22,3 +22,5 @@ Project: Weather Data ETL Pipeline
 ​Key Findings
 ​Performed basic analysis on the extracted data, such as comparing temperatures across cities and identifying the city with the highest humidity level.
 ​The pipeline successfully automated the process of moving from raw API input to a clean, analysis-ready dataset.
+### project demo
+watch the project walkthrough here https://drive.google.com/file/d/17C2AvfC2p8gqWatNwKT6cQYJGJQPLo6C/view?usp=drive_link
